@@ -1,0 +1,4 @@
+teste_automa
+============
+
+Teste
